@@ -104,7 +104,7 @@ class FlappyBirdView extends Ui.View {
         dc.fillCircle(Engine.CLOUD_2_SIZE - cloudX, groundHeight, Engine.CLOUD_SIZE_2);
         dc.fillCircle(Engine.CLOUD_3_SIZE - cloudX, groundHeight, Engine.CLOUD_SIZE_2);
         dc.fillCircle(Engine.CLOUD_4_SIZE - cloudX, groundHeight, Engine.CLOUD_SIZE_2);
-        
+
         // ground
         dc.setColor(Engine.COLOR_GROUND, Engine.COLOR_SKY);
         dc.fillRectangle(0, groundHeight, width, height - groundHeight);

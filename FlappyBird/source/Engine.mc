@@ -3,22 +3,22 @@ using Util;
 
 module Engine {
 	
-	const COLOR_SKY = 0x55AAFF;
-	const COLOR_GROUND = 0xFFAA00;
-	const COLOR_GRASS = 0x55AA00;
-	const COLOR_PIPE = 0x00AA00;
-	const COLOR_PIPE_HIGHLIGHT = 0x55FF00;
+	const COLOR_SKY = 0x0000FF;
+	const COLOR_GROUND = 0x008000;
+	const COLOR_GRASS = 0xFF0000;
+	const COLOR_PIPE = 0xFF0000;
+	const COLOR_PIPE_HIGHLIGHT = 0xf09090;
 	
 	const PLAYER_SPRITE_X_2 = 17;
 	const PLAYER_SPRITE_Y_2 = 12;
-	const PLAYER_JUMP_SPEED = 0.0016; // px per milisecond
+	const PLAYER_JUMP_SPEED = 0.0010; // px per milisecond
 	
-	const GRAVITY = 0.00016; // px per milisecond
+	const GRAVITY = 0.00012; // px per milisecond
 	
-	const PIPE_SPEED = 0.1; // px per milisecond
-	const PIPE_WIDTH = 30;
-	const PIPE_HIGHLIGHT_WIDTH = 5;
-	const PIPE_HOLE = 45;
+	const PIPE_SPEED = 0.10; // px per milisecond
+	const PIPE_WIDTH = 25;
+	const PIPE_HIGHLIGHT_WIDTH = 3;
+	const PIPE_HOLE = 60;
 	const PIPE_HOLE_2 = PIPE_HOLE/2;
 	
 	const GROUND_THICKNESS = 10;
@@ -33,10 +33,10 @@ module Engine {
 	const CLOUD_SIZE_2 = CLOUD_SIZE/2;
 	
 	const PIPES_NORMAL = [40, 70, 95];
-	const PIPES_NARROW = [20, 60];
+	const PIPES_NARROW = [20, 50];
 	
 	const PLAYER_X_NORMAL = 55;
-	const PLAYER_X_NARROW = 20;
+	const PLAYER_X_NARROW = 25;
 	
 	const SPEED_MULTIPLIER = 1.2;
 		
