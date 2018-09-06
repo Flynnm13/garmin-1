@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="4" lineNum="11" pc="268435479" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="4" lineNum="12" pc="268435483" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="4" lineNum="13" pc="268435495" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="5" lineNum="16" pc="268435499" symbol="jump"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\BehaviorDelegate.mc" id="5" lineNum="17" pc="268435503" symbol="jump"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="7" lineNum="18" pc="268435540" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="7" lineNum="19" pc="268435544" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="8" lineNum="23" pc="268435563" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="8" lineNum="24" pc="268435567" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="8" lineNum="25" pc="268435604" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="8" lineNum="26" pc="268435647" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="9" lineNum="32" pc="268435691" symbol="onShow"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="36" pc="268435696" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="39" pc="268435700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="40" pc="268435700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="44" pc="268435700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="45" pc="268435713" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="47" pc="268435726" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="48" pc="268435746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="49" pc="268435758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="50" pc="268435794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="51" pc="268435838" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="52" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="54" pc="268435924" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="55" pc="268435960" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="56" pc="268436017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="58" pc="268436053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="60" pc="268436110" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="61" pc="268436146" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="64" pc="268436203" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="66" pc="268436253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="68" pc="268436307" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="10" lineNum="69" pc="268436343" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestView.mc" id="11" lineNum="76" pc="268436380" symbol="onHide"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="13" lineNum="15" pc="268436385" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="13" lineNum="16" pc="268436389" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="19" pc="268436414" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="20" pc="268436418" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="21" pc="268436454" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="22" pc="268436471" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="23" pc="268436533" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="24" pc="268436550" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="14" lineNum="25" pc="268436586" symbol="drawTitle"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="16" lineNum="31" pc="268436675" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="16" lineNum="32" pc="268436679" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="35" pc="268436698" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="36" pc="268436702" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="40" pc="268436715" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="41" pc="268436738" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="42" pc="268436749" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="43" pc="268436772" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="44" pc="268436844" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="45" pc="268436887" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="47" pc="268436890" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="51" pc="268436909" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="52" pc="268436920" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="53" pc="268436992" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="54" pc="268437035" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="55" pc="268437058" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="57" pc="268437061" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="59" pc="268437080" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="60" pc="268437091" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="61" pc="268437163" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="62" pc="268437206" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="63" pc="268437229" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="65" pc="268437232" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="67" pc="268437251" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="68" pc="268437262" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="70" pc="268437334" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="71" pc="268437357" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="17" lineNum="73" pc="268437360" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="18" lineNum="80" pc="268437380" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="18" lineNum="81" pc="268437384" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="20" lineNum="93" pc="268437413" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="20" lineNum="94" pc="268437417" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="20" lineNum="95" pc="268437443" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="20" lineNum="96" pc="268437453" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="20" lineNum="97" pc="268437463" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="101" pc="268437495" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="102" pc="268437499" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="103" pc="268437499" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="104" pc="268437527" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="105" pc="268437541" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="107" pc="268437558" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="110" pc="268437572" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="112" pc="268437596" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuSampleImagesCustom.mc" id="21" lineNum="113" pc="268437632" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="23" lineNum="8" pc="268437708" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="23" lineNum="9" pc="268437712" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="24" lineNum="13" pc="268437731" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="24" lineNum="14" pc="268437735" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="25" lineNum="20" pc="268437773" symbol="onShow"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="24" pc="268437778" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="25" pc="268437782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="26" pc="268437782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="27" pc="268437782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="28" pc="268437795" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="29" pc="268437808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="30" pc="268437828" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="31" pc="268437840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="32" pc="268437876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="33" pc="268437920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="34" pc="268437956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="36" pc="268438006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="37" pc="268438042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="38" pc="268438099" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="39" pc="268438135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="40" pc="268438192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="41" pc="268438249" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="42" pc="268438306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="43" pc="268438363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\RMview.mc" id="26" lineNum="45" pc="268438420" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="28" lineNum="11" pc="268438457" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="28" lineNum="12" pc="268438461" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="29" lineNum="15" pc="268438480" symbol="onStart"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="29" lineNum="16" pc="268438484" symbol="onStart"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="29" lineNum="17" pc="268438509" symbol="onStart"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="30" lineNum="20" pc="268438539" symbol="onStop"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="30" lineNum="21" pc="268438543" symbol="onStop"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="31" lineNum="24" pc="268438580" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdApp.mc" id="31" lineNum="26" pc="268438584" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="33" lineNum="6" pc="268438652" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="33" lineNum="7" pc="268438656" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="34" lineNum="10" pc="268438675" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="34" lineNum="11" pc="268438679" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="34" lineNum="12" pc="268438726" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="34" lineNum="13" pc="268438776" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="35" lineNum="18" pc="268438829" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="35" lineNum="19" pc="268438833" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="37" lineNum="24" pc="268438862" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="37" lineNum="25" pc="268438866" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="38" lineNum="30" pc="268438885" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="38" lineNum="31" pc="268438897" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="39" lineNum="34" pc="268438926" symbol="onDone"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="39" lineNum="35" pc="268438938" symbol="onDone"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="41" lineNum="40" pc="268438967" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestMenuDelegate.mc" id="41" lineNum="41" pc="268438971" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="43" lineNum="6" pc="268438990" symbol="getRandom"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="43" lineNum="7" pc="268439002" symbol="getRandom"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="10" pc="268439049" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="11" pc="268439061" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="12" pc="268439061" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="13" pc="268439075" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="15" pc="268439103" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="44" lineNum="18" pc="268439131" symbol="getProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="45" lineNum="21" pc="268439135" symbol="setProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="45" lineNum="22" pc="268439147" symbol="setProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="45" lineNum="23" pc="268439161" symbol="setProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="45" lineNum="25" pc="268439190" symbol="setProperty"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="29" pc="268439220" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="30" pc="268439232" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="31" pc="268439249" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="32" pc="268439259" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="33" pc="268439296" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Util.mc" id="46" lineNum="35" pc="268439302" symbol="isGreaterThan2_4"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="48" lineNum="42" pc="268439306" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="48" lineNum="43" pc="268439310" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="47" pc="268439329" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="48" pc="268439333" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="50" pc="268439370" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="51" pc="268439389" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="52" pc="268439411" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="53" pc="268439433" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="54" pc="268439452" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="55" pc="268439474" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="57" pc="268439505" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="61" pc="268439521" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="62" pc="268439573" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="63" pc="268439602" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="65" pc="268439631" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="67" pc="268439683" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="69" pc="268439695" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="70" pc="268439710" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="73" pc="268439771" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="75" pc="268439794" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="49" lineNum="83" pc="268439830" symbol="onLayout"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="50" lineNum="89" pc="268439875" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="50" lineNum="94" pc="268439879" symbol="timerCallback"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="51" lineNum="98" pc="268439896" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="51" lineNum="100" pc="268439900" symbol="onBack"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="110" pc="268439904" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="111" pc="268439908" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="112" pc="268439918" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="113" pc="268439928" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="114" pc="268439950" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="115" pc="268439979" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="52" lineNum="116" pc="268440010" symbol="newPipe"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="121" pc="268440040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="122" pc="268440044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="123" pc="268440067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="124" pc="268440092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="127" pc="268440108" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="128" pc="268440144" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="129" pc="268440156" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="130" pc="268440200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="131" pc="268440224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="133" pc="268440240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="134" pc="268440286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="135" pc="268440339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="136" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="137" pc="268440445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="140" pc="268440498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="141" pc="268440534" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="142" pc="268440584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="143" pc="268440620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="144" pc="268440644" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="147" pc="268440711" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="148" pc="268440755" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="149" pc="268440784" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="150" pc="268440801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="154" pc="268440816" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="155" pc="268440852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="156" pc="268440897" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="157" pc="268440954" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="158" pc="268440990" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="159" pc="268441041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="162" pc="268441104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="163" pc="268441143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="164" pc="268441178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="165" pc="268441211" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="166" pc="268441259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="167" pc="268441276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="168" pc="268441309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="172" pc="268441325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="173" pc="268441383" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="174" pc="268441452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="175" pc="268441465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="176" pc="268441475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="177" pc="268441488" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="178" pc="268441503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="183" pc="268441536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="184" pc="268441586" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="185" pc="268441605" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="186" pc="268441615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="187" pc="268441638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="189" pc="268441667" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="190" pc="268441691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="195" pc="268441717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="198" pc="268441766" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\FlappyBirdView.mc" id="53" lineNum="199" pc="268441834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="55" lineNum="7" pc="268441911" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="55" lineNum="8" pc="268441915" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="11" pc="268441934" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="12" pc="268441938" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="13" pc="268441985" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="15" pc="268442064" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="16" pc="268442143" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="17" pc="268442222" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="19" pc="268442301" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="56" lineNum="21" pc="268442353" symbol="onSelect"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="58" lineNum="28" pc="268442357" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="58" lineNum="29" pc="268442361" symbol="initialize"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="32" pc="268442386" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="33" pc="268442390" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="34" pc="268442397" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="35" pc="268442434" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="36" pc="268442447" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="38" pc="268442477" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="39" pc="268442505" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="40" pc="268442536" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="41" pc="268442546" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="43" pc="268442565" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="44" pc="268442601" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="46" pc="268442613" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="47" pc="268442631" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Menu\\MenuTestDelegate.mc" id="59" lineNum="48" pc="268442667" symbol="draw"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Engine.mc" id="61" lineNum="43" pc="268442726" symbol="getPipeVariant"/>
+<entry filename="C:\\Users\\Spare\\eclipse-workspace\\garmin-master\\FlappyBird\\source\\Engine.mc" id="61" lineNum="44" pc="268442738" symbol="getPipeVariant"/>
+<entry filename="C:\\Users\\Spare\\Desktop\\Rez" id="68" lineNum="25" pc="268442780" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8388698" method="true" symbol="start"/>
+<entry field="true" id="68" symbol="SPEED_MULTIPLIER"/>
+<entry field="true" id="39" symbol="mBitmap"/>
+<entry id="19" object="true" symbol="RMView"/>
+<entry field="true" id="55" symbol="GROUND_THICKNESS"/>
+<entry id="96" method="true" symbol="getRandom"/>
+<entry id="26" module="true" symbol="Util"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="27" object="true" symbol="FlappyBirdView"/>
+<entry field="true" id="87" symbol="playerXMin"/>
+<entry field="true" id="15" symbol="myTimer"/>
+<entry field="true" id="14" symbol="playerSprite"/>
+<entry id="97" method="true" symbol="isGreaterThan2_4"/>
+<entry field="true" id="76" symbol="FRAME_RATE_16"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry field="true" id="21" symbol="mBest"/>
+<entry field="true" id="75" symbol="PI_2"/>
+<entry id="103" symbol="images"/>
+<entry field="true" id="86" symbol="playerXMax"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="102" symbol="RM"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="73" symbol="width_max"/>
+<entry field="true" id="89" symbol="speedMultiplier"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="28" object="true" symbol="Menu2TestDelegate"/>
+<entry field="true" id="88" symbol="cloudX"/>
+<entry id="23" object="true" symbol="Menu2TestMenu2Delegate"/>
+<entry field="true" id="43" symbol="COLOR_GRASS"/>
+<entry field="true" id="72" symbol="width_2"/>
+<entry id="69" method="true" symbol="getPipeVariant"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="66" symbol="PLAYER_X_NORMAL"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="50" symbol="PIPE_SPEED"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="52" symbol="PIPE_HIGHLIGHT_WIDTH"/>
+<entry id="36" method="true" symbol="MainLayout"/>
+<entry field="true" id="41" symbol="COLOR_SKY"/>
+<entry field="true" id="65" symbol="PIPES_NARROW"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="12" symbol="bird"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="18" object="true" symbol="CustomImagesItem"/>
+<entry id="8388708" object="true" symbol="BehaviorDelegate"/>
+<entry id="30" module="true" symbol="Engine"/>
+<entry field="true" id="60" symbol="CLOUD_2_SIZE"/>
+<entry field="true" id="77" symbol="pipes"/>
+<entry id="22" object="true" symbol="FlappyBirdApp"/>
+<entry field="true" id="79" symbol="pipeX"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry field="true" id="90" symbol="hit"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389283" method="true" symbol="setProperty"/>
+<entry field="true" id="38" symbol="AppName"/>
+<entry id="8389282" method="true" symbol="getProperty"/>
+<entry field="true" id="51" symbol="PIPE_WIDTH"/>
+<entry field="true" id="35" symbol="att"/>
+<entry field="true" id="71" symbol="thisFrame"/>
+<entry field="true" id="48" symbol="PLAYER_JUMP_SPEED"/>
+<entry field="true" id="56" symbol="GROUND_THICKNESS_2"/>
+<entry id="16" object="true" symbol="ImagesMenu"/>
+<entry field="true" id="62" symbol="CLOUD_4_SIZE"/>
+<entry id="29" object="true" symbol="DrawableMenuTitle"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="80" symbol="pipeXMax"/>
+<entry field="true" id="53" symbol="PIPE_HOLE"/>
+<entry field="true" id="82" symbol="pipeVariantMax"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="59" symbol="CLOUD_SIZE"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="92" symbol="score"/>
+<entry field="true" id="84" symbol="playerY"/>
+<entry field="true" id="85" symbol="playerX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="25" object="true" symbol="Menu2SampleCustomDelegate"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="100" symbol="mouse"/>
+<entry field="true" id="54" symbol="PIPE_HOLE_2"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8390422" method="true" symbol="onDone"/>
+<entry field="true" id="67" symbol="PLAYER_X_NARROW"/>
+<entry field="true" id="45" symbol="COLOR_PIPE_HIGHLIGHT"/>
+<entry field="true" id="49" symbol="GRAVITY"/>
+<entry field="true" id="47" symbol="PLAYER_SPRITE_Y_2"/>
+<entry field="true" id="70" symbol="lastFrame"/>
+<entry field="true" id="91" symbol="scoreCounted"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="101" symbol="bear"/>
+<entry field="true" id="11" symbol="Bird"/>
+<entry field="true" id="42" symbol="COLOR_GROUND"/>
+<entry field="true" id="31" symbol="BEST_SCORE_SCORE"/>
+<entry field="true" id="74" symbol="height_2"/>
+<entry field="true" id="20" symbol="mPlayerSpeed"/>
+<entry id="33" module="true" symbol="Layouts"/>
+<entry field="true" id="57" symbol="CLOUD_SPEED"/>
+<entry id="13" object="true" symbol="Menu2TestView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="40" symbol="mBitmapOffset"/>
+<entry id="95" method="true" symbol="newPipe"/>
+<entry id="24" object="true" symbol="Menu2SampleSubMenuDelegate"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="94" method="true" symbol="timerCallback"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="64" symbol="PIPES_NORMAL"/>
+<entry field="true" id="93" symbol="vibeProfile"/>
+<entry field="true" id="81" symbol="pipeVariant"/>
+<entry field="true" id="8390407" symbol="mLabel"/>
+<entry field="true" id="61" symbol="CLOUD_3_SIZE"/>
+<entry id="32" module="true" symbol="Menus"/>
+<entry field="true" id="58" symbol="COLOR_CLOUD"/>
+<entry id="99" symbol="fox"/>
+<entry id="8390740" method="true" symbol="drawTitle"/>
+<entry field="true" id="78" symbol="groundHeight"/>
+<entry field="true" id="37" symbol="Best"/>
+<entry field="true" id="83" symbol="dt"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="34" symbol="standard"/>
+<entry id="98" method="true" symbol="jump"/>
+<entry field="true" id="63" symbol="CLOUD_SIZE_2"/>
+<entry id="17" object="true" symbol="ImagesCustomDelegate"/>
+<entry field="true" id="46" symbol="PLAYER_SPRITE_X_2"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="44" symbol="COLOR_PIPE"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435691" name="dc" stackId="1" startPc="268435563"/>
+<entry endPc="268436379" name="height" stackId="3" startPc="268435700"/>
+<entry endPc="268436379" name="width" stackId="2" startPc="268435700"/>
+<entry endPc="268436379" name="score" stackId="4" startPc="268435700"/>
+<entry endPc="268436380" name="dc" stackId="1" startPc="268435696"/>
+<entry endPc="268436414" name="backgroundColor" stackId="2" startPc="268436385"/>
+<entry endPc="268436414" name="options" stackId="3" startPc="268436385"/>
+<entry endPc="268436414" name="itemHeight" stackId="1" startPc="268436385"/>
+<entry endPc="268436675" name="dc" stackId="1" startPc="268436414"/>
+<entry endPc="268437379" name="id" stackId="2" startPc="268436702"/>
+<entry endPc="268437380" name="item" stackId="1" startPc="268436698"/>
+<entry endPc="268437495" name="label" stackId="2" startPc="268437413"/>
+<entry endPc="268437495" name="bitmap" stackId="3" startPc="268437413"/>
+<entry endPc="268437495" name="id" stackId="1" startPc="268437413"/>
+<entry endPc="268437707" name="font" stackId="2" startPc="268437499"/>
+<entry endPc="268437707" name="bmXY" stackId="3" startPc="268437499"/>
+<entry endPc="268437708" name="dc" stackId="1" startPc="268437495"/>
+<entry endPc="268437773" name="dc" stackId="1" startPc="268437731"/>
+<entry endPc="268438456" name="height" stackId="3" startPc="268437782"/>
+<entry endPc="268438456" name="width" stackId="2" startPc="268437782"/>
+<entry endPc="268438457" name="dc" stackId="1" startPc="268437778"/>
+<entry endPc="268438538" name="best" stackId="2" startPc="268438484"/>
+<entry endPc="268438539" name="state" stackId="1" startPc="268438480"/>
+<entry endPc="268438580" name="state" stackId="1" startPc="268438539"/>
+<entry endPc="268438828" name="customMenu" stackId="2" startPc="268438679"/>
+<entry endPc="268438829" name="item" stackId="1" startPc="268438675"/>
+<entry endPc="268439049" name="max" stackId="2" startPc="268438990"/>
+<entry endPc="268439049" name="min" stackId="1" startPc="268438990"/>
+<entry endPc="268439134" name="property" stackId="2" startPc="268439061"/>
+<entry endPc="268439135" name="name" stackId="1" startPc="268439049"/>
+<entry endPc="268439220" name="name" stackId="1" startPc="268439135"/>
+<entry endPc="268439220" name="property" stackId="2" startPc="268439135"/>
+<entry endPc="268439305" name="version" stackId="2" startPc="268439232"/>
+<entry endPc="268439305" name="device" stackId="1" startPc="268439232"/>
+<entry endPc="268439875" name="dc" stackId="1" startPc="268439329"/>
+<entry endPc="268441911" name="dc" stackId="1" startPc="268440040"/>
+<entry endPc="268442356" name="customMenu" stackId="1" startPc="268441938"/>
+<entry endPc="268442725" name="labelWidth" stackId="5" startPc="268442390"/>
+<entry endPc="268442725" name="bitmapY" stackId="7" startPc="268442390"/>
+<entry endPc="268442725" name="appIcon" stackId="3" startPc="268442390"/>
+<entry endPc="268442725" name="labelY" stackId="9" startPc="268442390"/>
+<entry endPc="268442725" name="bitmapX" stackId="6" startPc="268442390"/>
+<entry endPc="268442725" name="labelX" stackId="8" startPc="268442390"/>
+<entry endPc="268442725" name="bitmapWidth" stackId="4" startPc="268442390"/>
+<entry endPc="268442725" name="spacing" stackId="2" startPc="268442390"/>
+<entry endPc="268442726" name="dc" stackId="1" startPc="268442386"/>
+<entry endPc="268442780" name="pipes" stackId="1" startPc="268442726"/>
+<entry endPc="268442793" name="dc" stackId="1" startPc="268442780"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="BehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="jump" parent="BehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Menu2TestView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="Menu2TestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="Menu2TestView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="Menu2TestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="Menu2TestView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ImagesMenu">
+<param id="itemHeight"/>
+<param id="backgroundColor"/>
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTitle" parent="ImagesMenu">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ImagesCustomDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="ImagesCustomDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="ImagesCustomDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CustomImagesItem">
+<param id="id"/>
+<param id="label"/>
+<param id="bitmap"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="CustomImagesItem">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RMView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RMView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RMView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RMView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FlappyBirdApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="FlappyBirdApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="FlappyBirdApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="FlappyBirdApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Menu2TestMenu2Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Menu2TestMenu2Delegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="Menu2TestMenu2Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Menu2SampleSubMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDone">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Menu2SampleCustomDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getRandom" parent="Util">
+<param id="min"/>
+<param id="max"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getProperty" parent="Util">
+<param id="name"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setProperty" parent="Util">
+<param id="name"/>
+<param id="property"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isGreaterThan2_4" parent="Util">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FlappyBirdView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="FlappyBirdView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="FlappyBirdView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="FlappyBirdView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="newPipe" parent="FlappyBirdView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="FlappyBirdView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Menu2TestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Menu2TestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DrawableMenuTitle">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="DrawableMenuTitle">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPipeVariant" parent="Engine">
+<param id="pipes"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="414" parentId="globals" symbolId="Menu2TestMenu2Delegate" type="class"/>
+<dataEntry offset="477" parentId="globals" symbolId="ImagesMenu" type="class"/>
+<dataEntry offset="532" parentId="globals" symbolId="ImagesCustomDelegate" type="class"/>
+<dataEntry offset="595" parentId="globals" symbolId="FlappyBirdApp" type="class"/>
+<dataEntry offset="674" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="753" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="824" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="855" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="886" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="917" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="956" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1003" parentId="globals" symbolId="CustomImagesItem" type="class"/>
+<dataEntry offset="1082" parentId="globals" symbolId="Menu2SampleSubMenuDelegate" type="class"/>
+<dataEntry offset="1129" parentId="globals" symbolId="Menu2TestView" type="class"/>
+<dataEntry offset="1208" parentId="globals" symbolId="Menu2SampleCustomDelegate" type="class"/>
+<dataEntry offset="1255" parentId="globals" symbolId="RMView" type="class"/>
+<dataEntry offset="1326" parentId="globals" symbolId="Engine" type="module"/>
+<dataEntry offset="1589" parentId="globals" symbolId="FlappyBirdView" type="class"/>
+<dataEntry offset="1892" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry offset="1947" parentId="globals" symbolId="Util" type="module"/>
+<dataEntry offset="2010" parentId="globals" symbolId="Menu2TestDelegate" type="class"/>
+<dataEntry offset="2065" parentId="globals" symbolId="BehaviorDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

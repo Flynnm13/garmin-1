@@ -1,0 +1,58 @@
+<drawables>
+
+
+    <bitmap id="Bird" filename="bird.png" dithering="none">
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>FF0000</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>0000FF</color>
+            <color>ffcd94</color>
+        </palette>
+        </bitmap>
+            <bitmap id="bird" filename="12.png" dithering="none">
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>FF0000</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>0000FF</color>
+            <color>ffcd94</color>
+        </palette>
+    </bitmap>
+
+    
+                <bitmap id="standard" filename="1.png" dithering="none">
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>FF0000</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>0000FF</color>
+            <color>ffcd94</color>
+        </palette>
+    </bitmap>
+
+                <bitmap id="att" filename="attention.png" dithering="none">
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>FF0000</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>0000FF</color>
+            <color>ffcd94</color>
+        </palette>
+    </bitmap>
+            <bitmap id="start" filename="start.png" dithering="none">
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>FF0000</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>0000FF</color>
+            <color>00FF00</color>
+        </palette>
+        </bitmap>
+    
+</drawables>
